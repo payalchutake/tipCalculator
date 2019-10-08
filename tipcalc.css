@@ -1,0 +1,58 @@
+body {
+	font-family: Roboto;
+	background: #5a1005;
+}
+#container {
+	height: 525px;
+	width: 360px;
+	margin: 100px auto;
+	background: #f7f7f7;
+	border-radius: 20px;
+}
+h1.popup-header {
+	background: #1f040c;
+	color: white;
+	text-transform: uppercase;
+	font-size: 18px;
+	padding: 10px 100px;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+}
+p {
+	padding-left: 20px;
+}
+#billamt {
+	font-size: 14px;
+	color: red;
+	background-color: #f7f7f7;
+	padding: 5px 5px 8px 8px;
+}
+#noOfPeople {
+	font-size: 14px;
+	color: red;
+	background-color: #f7f7f7;
+	padding: 5px 5px 8px 8px;
+	margin-left: 20px;
+}
+#service {
+  padding: 13px 13px 20px 20px;
+  margin-left: 20px;
+  font-size: 25px;
+}
+button {
+  text-transform: uppercase;
+  font-weight: bold;
+  display: block;
+  margin: 30px auto;
+  background: #ad143a;
+  border-radius: 5px;
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+  color: white;
+}
+#totalTip {
+	font-size: 30px;
+	margin-top: 5px;
+	text-align: center;
+}
